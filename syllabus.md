@@ -1,31 +1,24 @@
-## Syllabus: DS 2001 – Programming for Data Science  
-
-Fall 2021
-
-Lecture Times: Tues, Thurs 11am - 12:15pm  
-Note: All times mentioned throughout the Collab site and Syllabus are Eastern Time (US)
-
-Location: New Cabell Hall 383
+## Syllabus: DS 5559 – Data Engineering [UNDER DEVELOPMENT]
 
 ### Contact
 
 **Professor**  
-Adam Tashman  
-apt4c@virginia.edu  
+[name]
+[email]
 
 **Teaching Assistant**  
-Liz Thompson  
-et7gav@virginia.edu  
+[name]
+[email]
 
 When emailing the professor or TAs: Please remember to include "DS2001" in your email subject line.
 
 ### Important Dates  
-Date of First Live Session: Aug 24, 2021  
-Date of Last Live Session: Dec 2, 2021  
-Semester Project Presentation Date: Dec 2, 2021  
-Semester Project Due Date:  Dec 2, 2021 at 11:59 pm (final meeting day)  
+Date of First Live Session: [date]  
+Date of Last Live Session: [date]  
 
 ### Textbooks 
+[book1]
+
 
 ### Compute Environments
 
