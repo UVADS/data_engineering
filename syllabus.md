@@ -10,11 +10,7 @@
 [name]
 [email]
 
-When emailing the professor or TAs: Please remember to include "DS2001" in your email subject line.
-
-### Important Dates  
-Date of First Live Session: [date]  
-Date of Last Live Session: [date]  
+When emailing the professor or TAs: Please remember to include "DS 5559" in your email subject line.
 
 ### Textbooks 
 [book1]
@@ -23,7 +19,7 @@ Date of Last Live Session: [date]
 ### Compute Environments
 
 There are two options:
-- Use your own machine
+- Use your own machine [?]
 - Use the **CEDS** virtual environment   
   [Access CEDS](https://rdweb.wvd.microsoft.com/arm/webclient/index.html)  
   [Instructions for using CEDS](https://github.com/UVADS/ds2001/blob/main/access_CEDS.docx)
@@ -37,23 +33,21 @@ An introduction to essential programming concepts, structures, and techniques. S
 
 | Week 	|Topics	|
 |:---:	|---	|
-| Week 1 	| Welcome, GitHub and Onboarding	|
-| Week 2 	| 	Python Introduction: Data Types, Variables and Expressions |
+| Week 1 	| Linux Fundamentals	|
+| Week 2 	| 	Software Design |
 
 
 ### Learning Outcomes
 
 Upon completion of this course, you are expected to be able to:
-- Confidently work in an appropriate programming environment (IDE)
-- Find and utilize resources including online documentation
+- 
 
 
 ### Topics Covered
-- Intro to GitHub
-- Python Programming
-    - Intro to Spyder
-    - variables and expressions
-    - data types: int, float, bool, strin
+- Linux Fundamentals
+- Software Design
+- Database Design
+- [fill in the rest]
 
 
 ### Delivery Mode Expectations
