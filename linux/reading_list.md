@@ -1,6 +1,6 @@
 # Reading list for linux week 1
 
-## The Linux Command Line, William E. Shotts Jr
+## The Linux Command Line, William E. Shotts Jr ~60 pgs
 * Chapter 1: What is the Shell?                    3
 * Chapter 2: Navigation                            7
 * Chapter 3: Exploring the System                 13
