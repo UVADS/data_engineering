@@ -12,8 +12,26 @@
 
 When emailing the professor or TAs: Please remember to include "DS 5559" in your email subject line.
 
-### Textbooks 
-[book1]
+### Required Textbooks
+
+- The Linux Command Line, 2nd Edition: A Complete Introduction. William E. Shotts Jr.    
+Freely available through UVA online library. Login with UVA email.  
+https://www.oreilly.com/library/view/the-linux-command/9781492071235/?ar
+
+- Linux Bible, 10th Edition. Christopher Negus.    
+Freely available through UVA online library. Login with multi-factor authentication.  
+https://onlinelibrary-wiley-com.proxy01.its.virginia.edu/doi/book/10.1002/9781119578956
+
+
+### Optional Textbooks
+
+- Practical Vim: Edit Text at the Speed of Thought 2nd Edition. Drew Neil.    
+Freely available through UVA online library. Login with UVA email.  
+https://learning.oreilly.com/library/view/practical-vim-2nd/9781680501629/?ar=  
+
+- bash Cookbook: Solutions and Examples for bash Users. Carl Albing.  
+Freely available through UVA online library. Login with UVA email.  
+https://learning.oreilly.com/library/view/bash-cookbook/0596526784/?ar=
 
 
 ### Compute Environments
