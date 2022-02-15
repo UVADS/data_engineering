@@ -4,6 +4,7 @@
 #
 from typing import Set
 import re
+import json
 
 def tokenize(text: str) -> Set[str]:
     text = text.lower()                         # Convert to lowercase,
@@ -65,6 +66,7 @@ class NaiveBayesClassifier:
         for token in self.tokens:
             prob_if_spam, prob_if_ham = self._probabilities(token)
 
+
             # If *token* appears in the message,
             # add the log probability of seeing it;
             if token in text_tokens:
@@ -80,6 +82,26 @@ class NaiveBayesClassifier:
         prob_if_spam = math.exp(log_prob_if_spam)
         prob_if_ham = math.exp(log_prob_if_ham)
         return prob_if_spam / (prob_if_spam + prob_if_ham)
+
+    def dump(self):
+        with open('saved_nb.py', 'w') as target:
+            target.write(str(self.tokens))
+            target.write('\n')
+            target.write(str(self.spam_messages))
+            target.write('\n')
+            target.write(str(self.ham_messages))
+            target.write('\n')
+            target.write(json.dumps(dict(self.token_spam_counts)))
+            target.write('\n')
+            target.write(json.dumps(dict(self.token_ham_counts)))
+
+    def load_from_file(self):
+        import naive_trained as nt
+        self.tokens = nt.tokens
+        self.spam_messages = nt.spam_messages
+        self.ham_messages = nt.ham_messages
+        self.token_spam_counts = nt.token_spam_counts
+        self.token_ham_counts = nt.token_ham_counts
 
 messages = [Message("spam rules", is_spam=True),
             Message("ham rules", is_spam=False),
@@ -123,7 +145,7 @@ def main():
     import glob, re
     
     # modify the path to wherever you've put the files
-    path = 'data/spam_data/*/*'
+    path = 'data/*/*'
     
     data: List[Message] = []
     
@@ -172,5 +194,6 @@ def main():
     print("spammiest_words", words[-10:])
     print("hammiest_words", words[:10])
     
+    model.dump()
 if __name__ == "__main__":
     main()
