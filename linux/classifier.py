@@ -2,10 +2,8 @@ import naive_bayes as nb
 import sys
 
 model = nb.NaiveBayesClassifier(k=0.5)
+model.load_from_file()
 
-model.load_from_file() 
-
-print(model.predict("blah blah blah"))
 
 def process_stdin(stream):
     return [line.strip() for line in stream.readlines()]
