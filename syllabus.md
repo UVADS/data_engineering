@@ -66,7 +66,7 @@ Upon completion of this course, you are expected to be able to:
 
 ### Topics Covered
 - Linux Fundamentals
-- Software Design
+- Software Skills
 - Database Design
 - [fill in the rest]
 
