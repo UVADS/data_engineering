@@ -1,9 +1,0 @@
-
-
-**Learning Outcomes**  
-Use Linux commands to navigate: cd, ls, ...  
-Use Linux commands to inspect files: cat, grep, find, ...  
-Understand how to run scripts  
-Inspect json at the CL  
-Find and filter text in files using grep  
-Basic operations with vim: open, write text, edit, and save  
