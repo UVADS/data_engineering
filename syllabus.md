@@ -22,6 +22,9 @@ https://www.oreilly.com/library/view/the-linux-command/9781492071235/?ar
 Freely available through UVA online library. Login with multi-factor authentication.  
 https://onlinelibrary-wiley-com.proxy01.its.virginia.edu/doi/book/10.1002/9781119578956
 
+- Clean code : a handbook of agile software craftsmanship. Robert C Martin.
+Freely available through UVA online library. Login with UVA email.  
+https://learning.oreilly.com/library/view/clean-code-a/9780136083238/?ar=
 
 ### Optional Textbooks
 
