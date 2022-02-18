@@ -12,8 +12,26 @@
 
 When emailing the professor or TAs: Please remember to include "DS 5559" in your email subject line.
 
-### Textbooks 
-[book1]
+### Required Textbooks
+
+- The Linux Command Line, 2nd Edition: A Complete Introduction. William E. Shotts Jr.    
+Freely available through UVA online library. Login with UVA email.  
+https://www.oreilly.com/library/view/the-linux-command/9781492071235/?ar
+
+- Linux Bible, 10th Edition. Christopher Negus.    
+Freely available through UVA online library. Login with multi-factor authentication.  
+https://onlinelibrary-wiley-com.proxy01.its.virginia.edu/doi/book/10.1002/9781119578956
+
+
+### Optional Textbooks
+
+- Practical Vim: Edit Text at the Speed of Thought 2nd Edition. Drew Neil.    
+Freely available through UVA online library. Login with UVA email.  
+https://learning.oreilly.com/library/view/practical-vim-2nd/9781680501629/?ar=  
+
+- bash Cookbook: Solutions and Examples for bash Users. Carl Albing.  
+Freely available through UVA online library. Login with UVA email.  
+https://learning.oreilly.com/library/view/bash-cookbook/0596526784/?ar=
 
 
 ### Compute Environments
@@ -145,5 +163,3 @@ Assignments or exams where honor infractions or prohibited collaborations occur 
 If you have been identified as a Student Disability Access Center (SDAC) student, please let the Center know you are taking this class. If you suspect you should be an SDAC student, please schedule an appointment with them for an evaluation. I happily and discretely provide the recommended accommodations for those students identified by the SDAC. Please contact your instructor one week before an exam so we can make appropriate accommodations.
 Website:  https://www.studenthealth.virginia.edu/sdac
 If you are affected by a situation that falls within issues addressed by the SDAC and the instructor and staff are not informed about this in advance, this prevents us from helping during the semester, and it is unfair to request special considerations at the end of the term or after work is completed. So we request you inform the instructor as early in the term as possible your circumstances. If you have other special circumstances (athletics, other university-related activities, etc.) please contact your instructor and/or TA as soon as you know these may affect you in class.
-
-
