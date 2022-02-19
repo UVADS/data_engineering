@@ -9,8 +9,8 @@ AGENDA
   - hint1
   - ...
   
-- Reading assignment
+- [Reading assignment](https://github.com/UVADS/data_engineering/blob/01_linux/linux/reading_list.md)
 
-- Review Slides
+- Review [Slides](https://github.com/UVADS/data_engineering/blob/01_linux/linux/linux_command_line.pptx)
 
-- Kick off Lab assignment
+- Kick off [Lab assignment](https://github.com/UVADS/data_engineering/blob/01_linux/linux/Linux_lab_01.ipynb)
