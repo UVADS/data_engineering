@@ -26,7 +26,7 @@ Freely available [here](https://learning.oreilly.com/library/view/clean-code-a/9
 
 - Beginning Database Design Solutions. Rod Stephens. ISBN-10: 0470385499
 
-- Head First Design Patterns: A Brain-Friendly Guide, 1st Edition. Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson. ISBN-10: 9780596007126  
+- Head First Design Patterns: A Brain-Friendly Guide, 1st Ed. Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson. ISBN-10: 9780596007126  
 Freely available [here](https://learning.oreilly.com/library/view/head-first-design/0596007124/?ar=)
 
 ### Optional Textbooks
