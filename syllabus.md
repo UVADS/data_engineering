@@ -25,7 +25,10 @@ Freely available [here](https://onlinelibrary-wiley-com.proxy01.its.virginia.edu
 Freely available [here](https://learning.oreilly.com/library/view/clean-code-a/9780136083238/?ar=)
 
 - Beginning Database Design Solutions. Rod Stephens. ISBN-10: 0470385499
-- 
+
+- Head First Design Patterns: A Brain-Friendly Guide, 1st Edition. Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson. ISBN-10: 9780596007126  
+Freely available [here](https://learning.oreilly.com/library/view/head-first-design/0596007124/?ar=)
+
 ### Optional Textbooks
 
 - Practical Vim: Edit Text at the Speed of Thought 2nd Edition. Drew Neil.    
@@ -34,6 +37,11 @@ Freely available [here](https://learning.oreilly.com/library/view/practical-vim-
 - bash Cookbook: Solutions and Examples for bash Users. Carl Albing.  
 Freely available [here](https://learning.oreilly.com/library/view/bash-cookbook/0596526784/?ar=)
 
+- Effective Python: 90 Specific Ways to Write Better Python (Effective Software Development Series), 2nd Edition. Brett Slatkin. ISBN-10: 0134853989  
+Freely available [here](https://learning.oreilly.com/library/view/effective-python-59/9780134034416/?ar=)
+
+- Modern Python Standard Library Cookbook: Over 100 recipes to fully leverage the features of the standard library in Python. Alessandro Molina. ISBN-10: 1788830822  
+Freely available [here](https://learning.oreilly.com/library/view/modern-python-standard/9781788830829/?ar=)
 
 ### Compute Environments
 
@@ -53,7 +61,8 @@ An introduction to essential programming concepts, structures, and techniques. S
 | Week 	|Topics	|
 |:---:	|---	|
 | Week 1 	| Linux Fundamentals	|
-| Week 2 	| 	Software Skills |
+| Week 2 	| 	Software Skills 1 |
+| Week 2 	| 	Software Skills 2 |
 
 
 ### Learning Outcomes
