@@ -1,0 +1,18 @@
+SW Skills  
+Description
+
+Learning Outcomes  
+- create a virtual environment
+- set up git repo to be installable
+- install repo via pip
+- create releases in github
+- how to update a package
+- how to create tests for the package
+- how to tie package to CircleCI
+
+TO-DOs
+
+Take Quiz
+Reading
+Complete and Submit Lab
+Review Slides
