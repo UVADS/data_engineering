@@ -2,7 +2,7 @@ SW Skills
 Description
 
 Learning Outcomes  
-- using `assert` to check conditions
+- using asserts to check conditions
 - proper naming and coding conventions
 - learn some essential design patterns (decorator, singleton, factory)
 - create a virtual environment
