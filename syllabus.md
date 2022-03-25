@@ -14,6 +14,8 @@ When emailing the professor or TAs: Please remember to include "DS 5559" in your
 
 ### Required Textbooks
 
+**NOTE**: Nearly all of these books are electronically available for free
+
 - The Linux Command Line, 2nd Edition: A Complete Introduction. William E. Shotts Jr. ISBN-10: 1593279523     
 Freely available [here](https://www.oreilly.com/library/view/the-linux-command/9781492071235/?ar)
 
