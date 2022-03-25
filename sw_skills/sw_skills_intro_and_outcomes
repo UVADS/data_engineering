@@ -1,12 +1,11 @@
-SW Skills   
+SW Skills 1    
 Strong software development skills are essential for making data scientists self reliant.
 This module will teach you best practices for software development including:
-use of design patterns, writing clean code, and updating/versioning/creating tests for a package.  
+writing clean code and updating/versioning/creating tests for a package.  
 
 Learning Outcomes  
 - using asserts to check conditions
 - proper naming and coding conventions
-- learn some essential design patterns (decorator, singleton, factory)
 - create a virtual environment
 - set up git repo to be installable
 - install repo via pip
