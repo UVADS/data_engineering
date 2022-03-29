@@ -14,6 +14,8 @@ When emailing the professor or TAs: Please remember to include "DS 5559" in your
 
 ### Required Textbooks
 
+**NOTE**: Nearly all of these books are electronically available for free
+
 - The Linux Command Line, 2nd Edition: A Complete Introduction. William E. Shotts Jr. ISBN-10: 1593279523     
 Freely available [here](https://www.oreilly.com/library/view/the-linux-command/9781492071235/?ar)
 
@@ -28,6 +30,15 @@ Freely available [here](https://learning.oreilly.com/library/view/clean-code-a/9
 
 - Head First Design Patterns: A Brain-Friendly Guide, 1st Ed. E. Freeman, B. Bates, K. Sierra, Elisabeth Robson. ISBN-10: 9780596007126  
 Freely available [here](https://learning.oreilly.com/library/view/head-first-design/0596007124/?ar=)
+
+- Learning Python Design Patterns, 2nd Ed. Chetan Giridhar. ISBN-10: 178588803X  
+Freely available [here](https://www.oreilly.com/library/view/learning-python-design/9781785888038/?ar)
+
+- Test-Driven Machine Learning. Justin Bozonier. ISBN-10: 1784399086  
+Freely available [here](https://www.oreilly.com/library/view/test-driven-machine-learning/9781784399085/?ar)
+
+- Why programs fail: a guide to systematic debugging. Andreas Zeller. ISBN-10: 1558608664  
+Freely available [here](https://www.oreilly.com/library/view/why-programs-fail/9780123745156/?ar)
 
 ### Optional Textbooks
 
@@ -63,9 +74,10 @@ An introduction to essential programming concepts, structures, and techniques. S
 | Week 1 	| Linux Fundamentals	|
 | Week 2 	| 	Software Skills 1 |
 | Week 3 	| 	Software Skills 2 |
-| Week 4 	| 	Database Design |
-| Week 5 	| 	Database Build and Use |
-| Week 6 	| 	Create and Deploy Containers |
+| Week 4 	| 	Software Testing |
+| Week 5 	| 	Database Design |
+| Week 6 	| 	Database Build and Use |
+| Week 7 	| 	Create and Deploy Containers |
  
 
 ### Learning Outcomes
@@ -76,7 +88,8 @@ Upon completion of this course, you are expected to be able to:
 
 ### Topics Covered
 - Linux Fundamentals
-- Software Skills
+- Software Skills (e.g., asserts, proper coding conventions, design patterns)
+- Software Testing
 - Database Design
 - Database Build and Use
 - Create and Deploy Containers
