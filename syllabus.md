@@ -14,9 +14,10 @@ When emailing the professor or TAs: Please remember to include "DS 5559" in your
 
 ### Required Textbooks
 
+**NOTE**: Nearly all of these books are electronically available for free
+
 - The Linux Command Line, 2nd Edition: A Complete Introduction. William E. Shotts Jr. ISBN-10: 1593279523     
 Freely available [here](https://www.oreilly.com/library/view/the-linux-command/9781492071235/?ar)
-
 
 - Linux Bible, 10th Edition. Christopher Negus. ISBN-10: 1119578884     
 Freely available [here](https://onlinelibrary-wiley-com.proxy01.its.virginia.edu/doi/book/10.1002/9781119578956)
@@ -25,7 +26,28 @@ Freely available [here](https://onlinelibrary-wiley-com.proxy01.its.virginia.edu
 Freely available [here](https://learning.oreilly.com/library/view/clean-code-a/9780136083238/?ar=)
 
 - Beginning Database Design Solutions. Rod Stephens. ISBN-10: 0470385499
-- 
+
+- Head First Design Patterns: A Brain-Friendly Guide, 1st Ed. E. Freeman, B. Bates, K. Sierra, Elisabeth Robson. ISBN-10: 9780596007126  
+Freely available [here](https://learning.oreilly.com/library/view/head-first-design/0596007124/?ar=)
+
+- Learning Python Design Patterns, 2nd Ed. Chetan Giridhar. ISBN-10: 178588803X  
+Freely available [here](https://www.oreilly.com/library/view/learning-python-design/9781785888038/?ar)
+
+- Test-Driven Machine Learning. Justin Bozonier. ISBN-10: 1784399086  
+Freely available [here](https://www.oreilly.com/library/view/test-driven-machine-learning/9781784399085/?ar)
+
+- Why programs fail: a guide to systematic debugging. Andreas Zeller. ISBN-10: 1558608664  
+Freely available [here](https://www.oreilly.com/library/view/why-programs-fail/9780123745156/?ar)
+
+- Test Driven Development: By Example. Kent Beck. ISBN-10: 9780321146533
+Freely available [here](https://www.oreilly.com/library/view/test-driven-development/0321146530/?ar)
+
+- Python testing with pytest : simple, rapid, effective, and scalable. Brian Okken. ISBN-10: 1680508601
+Freely available [here](https://www.oreilly.com/library/view/python-testing-with/9781680502848/?ar)
+
+- The Cucumber for Java Book: Behaviour-driven Development for Testers and Developers. S. Rose, M. Wynne, A. Hellesøy. ISBN-10: 1941222293
+Freely available [here](https://www.oreilly.com/library/view/the-cucumber-for/9781680500677/?ar)
+
 ### Optional Textbooks
 
 - Practical Vim: Edit Text at the Speed of Thought 2nd Edition. Drew Neil.    
