@@ -40,6 +40,15 @@ Freely available [here](https://www.oreilly.com/library/view/test-driven-machine
 - Why programs fail: a guide to systematic debugging. Andreas Zeller. ISBN-10: 1558608664  
 Freely available [here](https://www.oreilly.com/library/view/why-programs-fail/9780123745156/?ar)
 
+- Test Driven Development: By Example. Kent Beck. ISBN-10: 9780321146533
+Freely available [here](https://www.oreilly.com/library/view/test-driven-development/0321146530/?ar)
+
+- Python testing with pytest : simple, rapid, effective, and scalable. Brian Okken. ISBN-10: 1680508601
+Freely available [here](https://www.oreilly.com/library/view/python-testing-with/9781680502848/?ar)
+
+- The Cucumber for Java Book: Behaviour-driven Development for Testers and Developers. S. Rose, M. Wynne, A. Hellesøy. ISBN-10: 1941222293
+Freely available [here](https://www.oreilly.com/library/view/the-cucumber-for/9781680500677/?ar)
+
 ### Optional Textbooks
 
 - Practical Vim: Edit Text at the Speed of Thought 2nd Edition. Drew Neil.    
