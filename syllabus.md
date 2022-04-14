@@ -19,7 +19,6 @@ When emailing the professor or TAs: Please remember to include "DS 5559" in your
 - The Linux Command Line, 2nd Edition: A Complete Introduction. William E. Shotts Jr. ISBN-10: 1593279523     
 Freely available [here](https://www.oreilly.com/library/view/the-linux-command/9781492071235/?ar)
 
-
 - Linux Bible, 10th Edition. Christopher Negus. ISBN-10: 1119578884     
 Freely available [here](https://onlinelibrary-wiley-com.proxy01.its.virginia.edu/doi/book/10.1002/9781119578956)
 
