@@ -39,14 +39,13 @@ Freely available [here](https://www.oreilly.com/library/view/test-driven-machine
 - Why programs fail: a guide to systematic debugging. Andreas Zeller. ISBN-10: 1558608664  
 Freely available [here](https://www.oreilly.com/library/view/why-programs-fail/9780123745156/?ar)
 
-- Test Driven Development: By Example. Kent Beck. ISBN-10: 9780321146533  
+- Test Driven Development: By Example. Kent Beck. ISBN-10: 9780321146533
 Freely available [here](https://www.oreilly.com/library/view/test-driven-development/0321146530/?ar)
 
-- Python testing with pytest : simple, rapid, effective, and scalable. Brian Okken. ISBN-10: 1680508601  
+- Python testing with pytest : simple, rapid, effective, and scalable. Brian Okken. ISBN-10: 1680508601
 Freely available [here](https://www.oreilly.com/library/view/python-testing-with/9781680502848/?ar)
 
-- The Cucumber for Java Book: Behaviour-driven Development for Testers and Developers.  
-S. Rose, M. Wynne, A. Hellesøy. ISBN-10: 1941222293  
+- The Cucumber for Java Book: Behaviour-driven Development for Testers and Developers. S. Rose, M. Wynne, A. Hellesøy. ISBN-10: 1941222293
 Freely available [here](https://www.oreilly.com/library/view/the-cucumber-for/9781680500677/?ar)
 
 ### Optional Textbooks
@@ -57,6 +56,11 @@ Freely available [here](https://learning.oreilly.com/library/view/practical-vim-
 - bash Cookbook: Solutions and Examples for bash Users. Carl Albing.  
 Freely available [here](https://learning.oreilly.com/library/view/bash-cookbook/0596526784/?ar=)
 
+- Effective Python: 90 Specific Ways to Write Better Python (Effective Software Dev Series), 2nd Ed. Brett Slatkin. ISBN-10: 0134853989  
+Freely available [here](https://learning.oreilly.com/library/view/effective-python-59/9780134034416/?ar=)
+
+- Modern Python Standard Library Cookbook: Over 100 recipes to fully leverage the features of the standard library in Python. A. Molina. ISBN-10: 1788830822  
+Freely available [here](https://learning.oreilly.com/library/view/modern-python-standard/9781788830829/?ar=)
 
 ### Compute Environments
 
@@ -76,8 +80,13 @@ An introduction to essential programming concepts, structures, and techniques. S
 | Week 	|Topics	|
 |:---:	|---	|
 | Week 1 	| Linux Fundamentals	|
-| Week 2 	| 	Software Skills |
-
+| Week 2 	| 	Software Skills 1 |
+| Week 3 	| 	Software Skills 2 |
+| Week 4 	| 	Software Testing |
+| Week 5 	| 	Database Design |
+| Week 6 	| 	Database Build and Use |
+| Week 7 	| 	Create and Deploy Containers |
+ 
 
 ### Learning Outcomes
 
@@ -87,8 +96,11 @@ Upon completion of this course, you are expected to be able to:
 
 ### Topics Covered
 - Linux Fundamentals
-- Software Skills
+- Software Skills (e.g., asserts, proper coding conventions, design patterns)
+- Software Testing
 - Database Design
+- Database Build and Use
+- Create and Deploy Containers
 - [fill in the rest]
 
 
