@@ -17,4 +17,5 @@ Since database design for a client is essentially a translation problem, we disc
 - Reading
 - Complete and Submit Lab
 - Review Slides
+- Journaling
 - Live Session
