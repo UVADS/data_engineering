@@ -7,10 +7,48 @@ Efrain Olivares
 dpy8wq@virginia.edu
 
 **Teaching Assistant**  
-[name]
+[name]  
 [email]
 
 When emailing the professor or TAs: Please remember to include "DS 5559" in your email subject line.
+
+### Course Description
+
+Learn the essential environments and tools for data engineering. Topics include Linux, software development and testing,
+database design and construction, creation and deployment of containers, and data load/transform/extraction. This course
+will be very applied.
+
+## Schedule of Topics 
+
+| Week 	|Topics	|
+|:---:	|:---	|
+| 1 | Linux Fundamentals	|
+| 2 | Software Skills 1 |
+| 3 | Software Skills 2 |
+| 4	| Software Testing |
+| 5 | Database Design |
+| 6 | Database Build and Use |
+| 7 | CI/CD (Continuous Integration / Continuous Deployment) |
+| 8 | Create and Deploy Containers |
+| 9 | LTE I	(Load, Transform, Extract) |
+| 10 | LTE II |
+| 11 | Describing and Versioning Data |
+| 12 | Service Monitoring |
+ 
+### Learning Outcomes
+
+Upon completion of this course, you are expected to be able to:
+- confidently use Linux for navigating, inspecting, running scripts
+- apply best practices in software development: 
+  - write clean code
+  - {update, version, create tests} for a package
+  - use design patterns
+- design a database that meets a set of requirements
+- write SQL scripts that build and populate a database
+- use CircleCI for automation of code testing and build
+- ingest data (e.g., from S3 bucket), transform and export to snowflake, airflow
+- properly describe and version your data
+- understand how to monitor a service running in production
 
 ### Required Textbooks
 
@@ -39,15 +77,15 @@ Freely available [here](https://www.oreilly.com/library/view/test-driven-machine
 - Why programs fail: a guide to systematic debugging. Andreas Zeller. ISBN-10: 1558608664  
 Freely available [here](https://www.oreilly.com/library/view/why-programs-fail/9780123745156/?ar)
 
-- Test Driven Development: By Example. Kent Beck. ISBN-10: 9780321146533
+- Test Driven Development: By Example. Kent Beck. ISBN-10: 9780321146533  
 Freely available [here](https://www.oreilly.com/library/view/test-driven-development/0321146530/?ar)
 
-- Python testing with pytest : simple, rapid, effective, and scalable. Brian Okken. ISBN-10: 1680508601
+- Python testing with pytest : simple, rapid, effective, and scalable. Brian Okken. ISBN-10: 1680508601  
 Freely available [here](https://www.oreilly.com/library/view/python-testing-with/9781680502848/?ar)
 
-- The Cucumber for Java Book: Behaviour-driven Development for Testers and Developers. S. Rose, M. Wynne, A. Hellesøy. ISBN-10: 1941222293
+- The Cucumber for Java Book: Behaviour-driven Development for Testers and Developers. S. Rose, M. Wynne, A. Hellesøy. ISBN-10: 1941222293  
 Freely available [here](https://www.oreilly.com/library/view/the-cucumber-for/9781680500677/?ar)
-
+  
 ### Optional Textbooks
 
 - Practical Vim: Edit Text at the Speed of Thought 2nd Edition. Drew Neil.    
@@ -70,64 +108,26 @@ There are two options:
   [Access CEDS](https://rdweb.wvd.microsoft.com/arm/webclient/index.html)  
   [Instructions for using CEDS](https://github.com/UVADS/ds2001/blob/main/access_CEDS.docx)
 
-
-### Course Description
-
-Learn the essential environments and tools for data engineering. Topics include Linux, software development and testing,
-database design and construction, creation and deployment of containers, and data load/transform/extraction. This course
-will be very applied.
-
-## Schedule of Topics 
-
-| Week 	|Topics	|
-|:---:	|:---	|
-| 1 | Linux Fundamentals	|
-| 2 | Software Skills 1 |
-| 3 | Software Skills 2 |
-| 4	| Software Testing |
-| 5 | Database Design |
-| 6 | Database Build and Use |
-| 7 | CI/CD (Continuous Integration / Continuous Deployment) |
-| 8 | Create and Deploy Containers |
-| 9 | LTE I	(Load, Transform, Extract) |
-| 10 | LTE II |
-| 11 | Describing and Versioning Data |
-| 12 | Service Monitoring |
- 
-### Learning Outcomes
-
-Upon completion of this course, you are expected to be able to:
-- use Linux for navigating, inspecting, running scripts
-- apply best practices in software development: 
-  - writing clean code
-  - updating/versioning/creating tests for a package
-  - using design patterns
-- design a database that meets a set of requirements
-- write SQL scripts that build and populate a database
-- use CircleCI for automation of code testing and build
-- ingest data (e.g., from S3 bucket), transform and export to snowflake, airflow
-- properly describe and version your data
-- understand how to monitor a service running in production
-
 ### Delivery Mode Expectations
 
-- In-person Live Sessions
+- Weekly 1-hr Live Sessions
     - Students complete assigned reading before live sessions
     - Live Sessions will consist of:
         - instructor giving code demos
-        - students work on small and larger coding assignments, with assistance from instructor/TA/potentially their peers
+        - students work on small coding assignments, with assistance from instructor/TA/potentially their peers
         - the instructor reviews coding solutions with the class
-        - students submit assignments through Collab
-        
+- Students submit assignments through Learning Management System (e.g., Collab)
+- Expect to spend 10hrs/week on this course
+- Office hours are held by instructor and TA (each are 1hr/week)
+
 ### Assessment
 
 A weighted-average grade will be calculated as follows:  
 
 |Component 	| Weight	|
 |---	|:---:|
-|Quizzes	|40%|
-|Homework Assignments	|35%|
-|Semester Project (+ Presentation)	|25%|
+|Quizzes	|30%|
+|Lab Assignments	|50%|
 |Journaling	|15%|
 |Attendance	|5%|
 
@@ -150,43 +150,35 @@ A weighted-average grade will be calculated as follows:
 ### Class Management
 Email / Communication    
 - Email is the best way to get in touch with the instructor
-- Please be sure to include the following in your email subject line: “DS 2001” when sending email to any of the course staff: professor and TAs.
 
 **Office Hours**
 - Office hours will be held through Zoom. 
-- If you cannot make it to my office hours we can arrange a mutually agreeable appointment time. 
+- If you cannot make it to office hours, the instructor can arrange a mutually agreeable appointment time. 
 
-
-**Homework Assignments**
-- There will be several homework assignments given throughout the semester. Specific grading criteria will be provided with each homework assignment. (See Collab for all homework details.)
-- You are encouraged to first try to complete the homework by yourself.  If you work with others, be sure you understand all of the work, and that your final submission is your own work.
-- Unless stated otherwise, please type your homework assignments and submit through Collab in the requested format
-- When submitting homework assignments, don’t forget to write the assignment title, your name, your UVa computing ID, and date at the top of each assignment.
+**Lab Assignments**
+- There will be several lab assignments given throughout the semester. Specific grading criteria will be provided with each assignment.
+- You are encouraged to first try to complete the lab by yourself.  If you work with others, be sure you understand all of the work, and that your final submission is your own work.
+- Unless stated otherwise, please type your lab assignments and submit through Collab in the requested format
+- When submitting lab assignments, don’t forget to write the assignment title, your name, your UVa computing ID, and date at the top of each assignment.
 - In submission file, please include your initials in the filename.
-- No homework assignments will be dropped.
-- Check Collab for due dates
+- **IMPORTANT: Make sure you are submitting the correct file. Incorrect files are subject to the lateness policy below.**
+- No lab assignments will be dropped.
 
-**Homework Assignment Lateness Policy**
-- Please submit HW assignments on time  
+**Lab Assignment Lateness Policy**
+- Please submit assignments on time  
 - If an issue will prompt late submission, email the TA in advance to explain the situation    
-- If the HW is submitted late and it is not an excused lateness, 10% of the assignment total points will be deducted per day it is late   
+- If the lab is submitted late and it is not an excused lateness, 10% of the assignment total points will be deducted per day it is late   
 - After 5 days of unexcused lateness, it will not be accepted
 
 **Quizzes**
 - There will be several quizzes throughout the semester that will assess your knowledge of the various topics
-- Quizzes are based on the Jupter Notebooks and R code files
+- Quizzes are based on readings and course content
 - All quizzes are mandatory for all students to take
 - **The quizzes should be done “closed book:”** please refrain from consulting any resources including notes, books, the web, devices, or other external media 
 - If you know in advance that you will miss any of the scheduled quizzes, you must make arrangements in advance with the instructor. (At least one week in advance if possible, or as soon as you are able if an unforeseen event occurs preventing you from taking the quiz.)
-
-**Semester Project**  
-- Information about the project is provided on Collab.  
-- Project submission (write-up, code, etc.) is due in the final week of the course (see Important Dates near top of Syllabus). See Collab for submission details.  
-- Project presentations will be during the final meeting of the semester.  
-- If you know in advance that you will be absent for the project presentations, you must make arrangements in advance with the instructor. (At least one week in advance if possible. Or as soon as you are able if an unforeseen event occurs preventing you from presenting your final project.)
-
+- 
 ### Spirit of the Course  
-Students must attend live sessions and complete the final project as a team. For the programming assignments and quizzes, you must submit your own work.
+Students must attend live sessions. For the lab assignments and quizzes, you must submit your own work.
 
 ### Electronic Submission of Assignments  
 All assignments must be submitted electronically through Collab by the specified due dates and times. It is crucial to complete all assigned work—failure to do so will likely result in failing the class.
