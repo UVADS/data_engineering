@@ -1,10 +1,10 @@
-## Syllabus: DS 5559 – Data Engineering [UNDER DEVELOPMENT]
+## Syllabus: DS 5559 – Data Engineering
 
 ### Contact
 
 **Professor**  
-[name]
-[email]
+Efrain Olivares  
+dpy8wq@virginia.edu
 
 **Teaching Assistant**  
 [name]
@@ -65,7 +65,7 @@ Freely available [here](https://learning.oreilly.com/library/view/modern-python-
 ### Compute Environments
 
 There are two options:
-- Use your own machine [?]
+- Use your own machine
 - Use the **CEDS** virtual environment   
   [Access CEDS](https://rdweb.wvd.microsoft.com/arm/webclient/index.html)  
   [Instructions for using CEDS](https://github.com/UVADS/ds2001/blob/main/access_CEDS.docx)
@@ -73,38 +73,44 @@ There are two options:
 
 ### Course Description
 
-An introduction to essential programming concepts, structures, and techniques. Students will gain confidence in not only reading code, but learning what it means to write good quality code. Additionally, essential and complementary topics are taught, such as testing and debugging, exception handling, and an introduction to visualization. This course is project based, consisting of a semester project and final project presentations.
+Learn the essential environments and tools for data engineering. Topics include Linux, software development and testing,
+database design and construction, creation and deployment of containers, and data load/transform/extraction. This course
+will be very applied.
 
 ## Schedule of Topics 
 
 | Week 	|Topics	|
-|:---:	|---	|
-| Week 1 	| Linux Fundamentals	|
-| Week 2 	| 	Software Skills 1 |
-| Week 3 	| 	Software Skills 2 |
-| Week 4 	| 	Software Testing |
-| Week 5 	| 	Database Design |
-| Week 6 	| 	Database Build and Use |
-| Week 7 	| 	Create and Deploy Containers |
+|:---:	|:---	|
+| 1 | Linux Fundamentals	|
+| 2 | Software Skills 1 |
+| 3 | Software Skills 2 |
+| 4	| Software Testing |
+| 5 | Database Design |
+| 6 | Database Build and Use |
+| 7 | CI/CD (Continuous Integration / Continuous Deployment) |
+| 8 | Create and Deploy Containers |
+| 9 | LTE I	(Load, Transform, Extract) |
+| 10 | LTE II |
+| 11 | Describing and Versioning Data |
+| 12 | Service Monitoring |
  
-
 ### Learning Outcomes
 
 Upon completion of this course, you are expected to be able to:
-- 
-
-
-### Topics Covered
-- Linux Fundamentals
-- Software Skills (e.g., asserts, proper coding conventions, design patterns)
-- Software Testing
-- Database Design
-- Database Build and Use
-- Create and Deploy Containers
-- [fill in the rest]
-
+- use Linux for navigating, inspecting, running scripts
+- apply best practices in software development: 
+  - writing clean code
+  - updating/versioning/creating tests for a package
+  - using design patterns
+- design a database that meets a set of requirements
+- write SQL scripts that build and populate a database
+- use CircleCI for automation of code testing and build
+- ingest data (e.g., from S3 bucket), transform and export to snowflake, airflow
+- properly describe and version your data
+- understand how to monitor a service running in production
 
 ### Delivery Mode Expectations
+
 - In-person Live Sessions
     - Students complete assigned reading before live sessions
     - Live Sessions will consist of:
@@ -122,6 +128,8 @@ A weighted-average grade will be calculated as follows:
 |Quizzes	|40%|
 |Homework Assignments	|35%|
 |Semester Project (+ Presentation)	|25%|
+|Journaling	|15%|
+|Attendance	|5%|
 
 ### Grading Scale                                                  
 
