@@ -176,7 +176,7 @@ Email / Communication
 - All quizzes are mandatory for all students to take
 - **The quizzes should be done “closed book:”** please refrain from consulting any resources including notes, books, the web, devices, or other external media 
 - If you know in advance that you will miss any of the scheduled quizzes, you must make arrangements in advance with the instructor. (At least one week in advance if possible, or as soon as you are able if an unforeseen event occurs preventing you from taking the quiz.)
-- 
+
 ### Spirit of the Course  
 Students must attend live sessions. For the lab assignments and quizzes, you must submit your own work.
 
