@@ -29,7 +29,7 @@ will be very applied.
 | 5 | Database Design |
 | 6 | Database Build and Use |
 | 7 | CI/CD (Continuous Integration / Continuous Deployment) |
-| 8 | Create and Deploy Containers |
+| 8 | Automation and Introduction to Containers |
 | 9 | LTE I	(Load, Transform, Extract) |
 | 10 | LTE II |
 | 11 | Describing and Versioning Data |
