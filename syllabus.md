@@ -45,8 +45,8 @@ Upon completion of this course, you are expected to be able to:
   - use design patterns
 - design a database that meets a set of requirements
 - write SQL scripts that build and populate a database
-- use CircleCI for automation of code testing and build
-- ingest data (e.g., from S3 bucket), transform and export to snowflake, airflow
+- use `CircleCI` for automation of code testing and build
+- use `airflow` to build and run workflows: ingest data (e.g., from S3 bucket), transform and export
 - properly describe and version your data
 - understand how to monitor a service running in production
 
