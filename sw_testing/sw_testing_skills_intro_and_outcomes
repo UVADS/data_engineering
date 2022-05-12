@@ -1,9 +1,12 @@
 SW Testing   
-[Coming Soon!] 
+The activity of testing is part of engineering and is geared to keep you efficient.  
+Mastering a few basic practices will save you time and headaches.  
+In this module, you will develop your own tests to accompany your code.
 
 Learning Outcomes  
-- 
--
+- Learn to understand what to test, when to test, and how to test
+- Quickly set up automation for your project
+- Develop the techniques to test as you code
 
 TO-DOs
 
@@ -11,3 +14,4 @@ Take Quiz
 Reading
 Complete and Submit Lab
 Review Slides
+Journaling
