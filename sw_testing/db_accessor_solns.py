@@ -1,3 +1,23 @@
+# Lab: SW Testing
+# For this assignment, fill in the # TODO sections #
+# run all code and tests
+
+###########################################
+# RUBRIC
+# Running this statement with correct results (5 PTS)
+# > pytest -v db_template.py
+# You should see 5 green PASS results
+#
+# get_cursor(self) works properly (5 PTS)
+# Run this file with:
+# > python db_template.py
+# then run
+# > SELECT * FROM fish;
+# this should show the two inserted rows
+#
+# TOTAL POINTS = 10
+###########################################
+
 import sqlite3
 import os
 
