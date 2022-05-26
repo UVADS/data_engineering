@@ -1,3 +1,24 @@
+# Lab: SW Testing
+# For this assignment, fill in the # TODO sections #
+# run all code and tests
+
+###########################################
+# RUBRIC
+# Running this statement with correct results (5 PTS)
+# > pytest -v db_accessor_template.py
+# You should see 5 green PASS results
+#
+# get_cursor(self) works properly (5 PTS)
+# Run this file with:
+# > python db_accessor_template.py
+# then run
+# > SELECT * FROM fish;
+# this should show the two inserted rows
+#
+# TOTAL POINTS = 10
+###########################################
+
+
 import sqlite3
 import os
 
@@ -18,8 +39,8 @@ class Singleton:
     def get_cursor(self):
         if os.path.exists("aquarium.db"):
             print("DB found, getting cursor")
-            self.connection = sqlite3.connect("aquarium.db")
-            self.cursor = self.connection.cursor()
+            # TODO: Fill in what to do if we have a db
+            #
         else:
             print("DB NOT found!  run initialize_database first")
             self.cursor = None
@@ -28,9 +49,13 @@ class Singleton:
     def sql(self, sql_statement):
         if self.cursor:
             print("Executing: {}".format(sql_statement))
+            # This try catch block is very useful, so we can use the db at the 
+            # command line and not get a session cut off because of a typo for example
             try:
                 rows = self.cursor.execute(sql_statement).fetchall()
             except Exception as e:
+                # Note the use of the exception instead of an assert.  If you want or need to 
+                # recover from an error this structure allows you to do that.
                 print(e)
                 return []
             return rows
@@ -75,13 +100,13 @@ def test_is_singleton():
 def test_not_initialized():
     delete_database()
     db = Singleton()
-    assert [] == db.sql("SELECT * FROM FISH;")
+    # TODO:  make an sql call, i.e. db.sql, which is sure to fail right?
 
 def test_database_connect():
     db_fresh_start()
     db = Singleton()
     db.get_cursor()
-    assert 2 == len(db.sql("SELECT * FROM fish;"))
+    assert #<TODO: how many rows are we expecting?>  == len(db.sql(#<TODO: Simple sql statement to get the rows>))
 
 def test_resetting_after_db_creation():
     delete_database()
@@ -89,16 +114,17 @@ def test_resetting_after_db_creation():
     db_a = Singleton()
     db_b = Singleton()
     assert id(db_a) == id(db_b)
-    db_a.get_cursor()
+
+    #<TODO: Your code here> 
     assert [] == db_a.sql("SELECT * FROM FISH;")
     assert [] == db_b.sql("SELECT * FROM FISH;")
 
-    initialize_database()
-
+    intialize_database()
+   
+    # Note that in this last part of the test, object db_a got the cursor, but the
+    # check for the rows is done on db_b!
     db_a.get_cursor()
     assert 2 == len(db_b.sql("SELECT * FROM fish;"))
-
-
     
 if __name__=="__main__":
 
