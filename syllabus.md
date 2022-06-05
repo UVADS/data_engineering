@@ -85,7 +85,13 @@ Freely available [here](https://www.oreilly.com/library/view/python-testing-with
 
 - The Cucumber for Java Book: Behaviour-driven Development for Testers and Developers. S. Rose, M. Wynne, A. Hellesøy. ISBN-10: 1941222293  
 Freely available [here](https://www.oreilly.com/library/view/the-cucumber-for/9781680500677/?ar)
-  
+
+- Data pipelines with Apache Airflow. J. de Ruiter, B. Harenslak. ISBN: 9781617296901  
+Freely available [here](https://learning.oreilly.com/videos/data-pipelines-with/9781617296901AU/)
+
+- Snowflake Cookbook. H. Qureshi, H. Sharif. ISBN: 9781800560611  
+Freely available [here](https://learning.oreilly.com/library/view/snowflake-cookbook/9781800560611/?ar=)
+
 ### Optional Textbooks
 
 - Practical Vim: Edit Text at the Speed of Thought 2nd Edition. Drew Neil.    
