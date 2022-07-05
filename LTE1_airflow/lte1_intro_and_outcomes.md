@@ -1,15 +1,14 @@
-### Continuous Integration / Continuous Delivery (CI/CD) Motivation
-The practice of continuous integration / continuous delivery (CI/CD) aims to keep running code available to end-users continuously.
-It depends on two main practices:
-
-1) small code check-ins with high frequency
-2) automated unit integration and deployment tests running on each code check-in
+### LTE 1 Motivation
+We now turn to Data Engineering tools, starting with Airflow.  Airflow is a workflow management tool where workflow means a DAG (Directed Acyclic Graph) of tasks.  Airflow provides for the configuration, dependency and execution control of the various workflows.  It is based on Python, which is convenient since Python is also ubiquitous in Data Science
 
 ### Learning Outcomes
-- Connect a GitHub repo to CircleCI and have it run automated tests on each push
-- Understand the benefits of CI/CD
-- Understand the many uses of the Jenkins as a build, testing and deployment tool
+At the conclusion of this module, you should be able to:
 
+- Download and start up the default Airflow docker image and run it on your local machine.
+- Create a basic set of tasks for Airflow.
+- Be familiar with starting and stopping a workflow in Airflow.
+- Scheduling and debugging a basic workflow in Airflow.
+- 
 ### TO-DOs
 - Take Quiz
 - Reading
