@@ -4,7 +4,7 @@
 * [Jenkins Documentation](https://www.jenkins.io/doc/)
 * [CircleCI Documentation](https://circleci.com)
 
-## Other popular and new tools
+## Other popular and new tools [Optional reading]
 * [github actions](https://docs.github.com/en/actions)
 * [Travis CI](https://www.travis-ci.com)
 * [Codeship](https://www.cloudbees.com/products/codeship)
