@@ -86,7 +86,7 @@ Freely available [here](https://www.oreilly.com/library/view/python-testing-with
 - The Cucumber for Java Book: Behaviour-driven Development for Testers and Developers. S. Rose, M. Wynne, A. Hellesøy. ISBN-10: 1941222293  
 Freely available [here](https://www.oreilly.com/library/view/the-cucumber-for/9781680500677/?ar)
 
-- Docker: Up & Running, 2nd Edition. K. Matthias, S. P. Kane. ISBN: 9781492036739
+- Docker: Up & Running, 2nd Edition. K. Matthias, S. P. Kane. ISBN: 9781492036739  
 Freely available [here](https://learning.oreilly.com/library/view/docker-up/9781492036722/)
 
 - Data pipelines with Apache Airflow. J. de Ruiter, B. Harenslak. ISBN: 9781617296901  
