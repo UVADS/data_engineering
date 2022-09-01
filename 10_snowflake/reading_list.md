@@ -10,6 +10,8 @@
     - Chapter 12 Loading Data
     - Chapter 13 Unloading Data
     - Chapter 14 Data Sharing, Exchanges and the Marketplace
+* [Snowflake Cookbook](https://www.amazon.com/Snowflake-Cookbook-Techniques-warehousing-solutions-ebook/dp/B08PDJ7CTX)
+    - This is a great resource for some hands on exercises
  
 * Snowflake official documentation 
     - [User Guide Intro](https://docs.snowflake.com/en/user-guide-intro.html)
