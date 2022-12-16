@@ -63,7 +63,7 @@ Freely available [here](https://onlinelibrary-wiley-com.proxy01.its.virginia.edu
 - Clean code : a handbook of agile software craftsmanship. Robert C Martin. ISBN-10: 9780132350884  
 Freely available [here](https://learning.oreilly.com/library/view/clean-code-a/9780136083238/?ar=)
 
-- Beginning Database Design Solutions. Rod Stephens. ISBN-10: 0470385499
+- Beginning Database Design Solutions. Rod Stephens. ISBN-10: 0470385499  
 Freely available [here](https://learning.oreilly.com/library/view/beginning-database-design/9780470385494/)
 
 - Head First Design Patterns: A Brain-Friendly Guide, 1st Ed. E. Freeman, B. Bates, K. Sierra, Elisabeth Robson. ISBN-10: 9780596007126  
