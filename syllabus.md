@@ -126,7 +126,7 @@ There are two options:
         - instructor giving code demos
         - students work on small coding assignments, with assistance from instructor/TA/potentially their peers
         - the instructor reviews coding solutions with the class
-- Students submit assignments through Learning Management System (e.g., Collab)
+- Students submit assignments through Learning Management System (e.g., Canvas)
 - Expect to spend 10hrs/week on this course
 - Office hours are held by instructor and TA (each are 1hr/week)
 
@@ -193,8 +193,9 @@ Students must attend live sessions. For the lab assignments and quizzes, you mus
 ### Electronic Submission of Assignments  
 All assignments must be submitted electronically through Collab by the specified due dates and times. It is crucial to complete all assigned work—failure to do so will likely result in failing the class.
 
-### Technical Support Contacts  
-UVaCollab: collab-support@virginia.edu
+### Technical Support Resources and Contacts
+Canvas Student Guides: https://community.canvaslms.com/t5/Canvas-Student/ct-p/canvas_student  
+UVaCanvas: LTS-support@virginia.edu
 
 ### Academic Integrity  
 
