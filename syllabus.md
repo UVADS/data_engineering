@@ -7,8 +7,8 @@ Efrain Olivares
 dpy8wq@virginia.edu
 
 **Teaching Assistant**  
-[name]  
-[email]
+Liz Thompson  
+et7gav@virginia.edu
 
 When emailing the professor or TAs: Please remember to include "DS 5559" in your email subject line.
 
