@@ -47,6 +47,7 @@ Upon completion of this course, you are expected to be able to:
 - write SQL scripts that build and populate a database
 - use `CircleCI` for automation of code testing and build
 - use `Airflow` to build and run workflows: ingest data (e.g., from S3 bucket), transform and export
+- use `Snowflake` to store, share and process data
 - properly describe and version your data
 - understand how to monitor a service running in production
 
