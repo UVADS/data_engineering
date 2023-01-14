@@ -113,11 +113,9 @@ Freely available [here](https://learning.oreilly.com/library/view/modern-python-
 
 ### Compute Environments
 
-There are two options:
-- Use your own machine
-- Use the **CEDS** virtual environment   
-  [Access CEDS](https://rdweb.wvd.microsoft.com/arm/webclient/index.html)  
-  [Instructions for using CEDS](https://github.com/UVADS/ds2001/blob/main/access_CEDS.docx)
+- We'll be using our local laptops to run a linux type environment.
+    - For Macs this should be pretty direct, and we'll go over how to install some tools to make running the exercises easier.
+    - For Windows, we will activate the WSL (Windows Subsystem for Linux)
 
 ### Delivery Mode Expectations
 
