@@ -3,7 +3,7 @@
     - Chapter 1 Introduction
     - Chapter 2 Docker at a Glance
     - Chapter 4 Working with Docker Images
-    - Chapter 5 Woeking with Docker Containers
+    - Chapter 5 Working with Docker Containers
 * Docker Official Documentation
     - [Overview of Docker Compose](https://docs.docker.com/compose/)
     - [Getting Started](https://docs.docker.com/compose/gettingstarted/)
