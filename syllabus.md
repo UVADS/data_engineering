@@ -30,8 +30,8 @@ will be very applied.
 | 6 | Database Build and Use |
 | 7 | CI/CD (Continuous Integration / Continuous Deployment) |
 | 8 | Automation and Introduction to Containers |
-| 9 | LTE I	(Load, Transform, Extract) |
-| 10 | LTE II |
+| 9 | LTE I	(Load, Transform, Extract) - Airflow Data Pipelines |
+| 10 | LTE II - Snowflake Data Lake|
 | 11 | Describing and Versioning Data |
 | 12 | Service Monitoring |
  
