@@ -15,6 +15,6 @@
 
 - [Reading assignment](https://github.com/UVADS/data_engineering/blob/main/01_linux/reading_list.md) (2 mins)
 
-- Review Demo materials / [Slides](https://github.com/UVADS/data_engineering/blob/01_linux/linux/linux_command_line.pptx) (40 mins)
+- Review Demo materials / [Slides](https://github.com/UVADS/data_engineering/blob/main/01_linux/linux_command_line.pptx) (40 mins)
 
 - Kick off [Lab assignment](https://github.com/UVADS/data_engineering/blob/main/01_linux/Linux_lab_01.ipynb) (10 mins)
