@@ -7,7 +7,7 @@
   
 - Admin items (2 mins)
 
-- Review [Intro and Outcomes](https://github.com/UVADS/data_engineering/blob/main/linux/linux_intro_and_outcomes.md) (2 mins)
+- Review [Intro and Outcomes](https://github.com/UVADS/data_engineering/blob/main/02_03_sw_skills/sw_skills_intro_and_outcomes) (2 mins)
 
 - Quiz Hints: (2 mins)
   - hint1
