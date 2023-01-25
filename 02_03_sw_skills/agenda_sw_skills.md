@@ -17,4 +17,4 @@
 
 - Review Demo materials / [Slides](https://github.com/UVADS/data_engineering/blob/main/02_03_sw_skills/SW_Skills_1.pptx) (40 mins)
 
-- Kick off [Lab assignment](https://github.com/UVADS/data_engineering/blob/01_linux/linux/Linux_lab_01.ipynb) (10 mins)
+- Kick off [Lab assignment](https://github.com/UVADS/data_engineering/blob/main/02_03_sw_skills/SW_Skills_Lab.ipynb) (10 mins)
