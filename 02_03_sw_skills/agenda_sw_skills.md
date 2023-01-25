@@ -13,7 +13,7 @@
   - hint1
   - ...
   
-- [Reading assignment](https://github.com/UVADS/data_engineering/blob/01_linux/linux/reading_list.md) (2 mins)
+- [Reading assignment](https://github.com/UVADS/data_engineering/blob/main/02_03_sw_skills/reading_list.ipynb) (2 mins)
 
 - Review Demo materials / [Slides](https://github.com/UVADS/data_engineering/blob/01_linux/linux/linux_command_line.pptx) (40 mins)
 
