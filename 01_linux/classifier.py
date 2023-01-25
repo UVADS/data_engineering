@@ -6,7 +6,7 @@ model.load_from_file()
 
 
 def process_stdin(stream):
-    return [line.strip() for line in stream.readlines()]
+    < PUT YOUR CODE HERE>
 
 def score_one_file(fname, model):
     try:
