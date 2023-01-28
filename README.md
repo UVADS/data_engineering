@@ -1,2 +1,2 @@
 # data_engineering
-Repo for the Data Engineering course at UVA SDS
+Repo for the Online Master's Data Engineering course at UVA SDS
